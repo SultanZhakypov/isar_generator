@@ -16,7 +16,7 @@ dependencies:
   isar: 
     git:
       url: https://github.com/Donluigimx/isar
-      ref: 42cf20e45fc711807c8e9ca6a754c108c328de25
+      ref: main
   path: ^1.8.1
   source_gen: ^1.2.2
   xxh3: ^1.0.1
